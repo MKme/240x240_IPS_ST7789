@@ -20,7 +20,7 @@ Arduino Nano
 
 ESP
 
-<img src="https://github.com/MKme/240x240_IPS_ST7789/blob/main/ref/s-l1600.jpg" width="400"/>
+<img src="https://github.com/MKme/240x240_IPS_ST7789/blob/main/ref/esp8266-nodemcu-st7789-spi-tft-circuit.png" width="400"/>
 
 Buy the 240x240 IPS display on eBay here: https://ebay.us/9oGXxW
 
