@@ -13,7 +13,7 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 
 # 240x240_IPS_ST7789
 ST7789 240x240 IPS Display for Electronics Projects 
-
+<img src="https://github.com/MKme/240x240_IPS_ST7789/blob/main/ref/s-l1600.jpg" width="700"/>
 
 Buy the 240x240 IPS display on eBay here: https://ebay.us/9oGXxW
 
