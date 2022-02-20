@@ -37,3 +37,7 @@ Pin Descriptions:
 | 5	| RES	| LCM Reset pin This pin is reset signal input. When the pin is low, initialization of the chip is executed. Keep this pin pull high during normal operation.
 | 6	| DC	| Data/Command Control
 | 7	| BLK	| Backlight control pin
+
+
+The ST7789 display module shown in project circuit diagram has 7 pins: (from right to left): GND (ground), VCC, SCL (serial clock), SDA (serial data), RES (reset), DC (or D/C: data/command) and BLK (back light).
+Connecting the BLK pin is optional. The back light turns off when the BLK pin connected to the ground (GND).
