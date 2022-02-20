@@ -1,6 +1,10 @@
-//Eric had to use older espi lib 2.4.2 to work 
 
 //Working 2022-02-19 Yay
+//Eric had to use older espi lib 2.4.2 to work 
+
+// Use the image converter but just go in to export settings and copy out the values- dont export the header file
+//Use  R5GB5 & under image 16 bit 
+//http://youtube.com/mkmeorg 
 //www.mkme.org 
 
 
