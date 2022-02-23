@@ -14,6 +14,8 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 # 240x240_IPS_ST7789
 ST7789 240x240 IPS Display for Electronics Projects 
 
+Buy this display on Amazon here https://amzn.to/3hbskgW
+
 Arduino Nano
 
 <img src="https://github.com/MKme/240x240_IPS_ST7789/blob/main/ref/s-l1600.jpg" width="400"/>
